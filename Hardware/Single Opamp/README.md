@@ -3,6 +3,9 @@
 **Single Discrete Opamp design intended for use in guitar electronics**
 
 ***
+![Image](opamp.png)
+
+***
 ![Layout Image](PCB.png)
 
 ***
